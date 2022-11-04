@@ -8,3 +8,5 @@ The python scripts run on Python 2.7 or 3.x. Older versions of python are not su
 ```
 sudo pip install requests
 ```
+### Without read_model in convert_to_logfile.py
+
